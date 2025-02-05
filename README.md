@@ -1,5 +1,7 @@
 Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 
+_Live PowerBI Dashboardhttps://app.powerbi.com/view?r=eyJrIjoiODgyYTM3MTEtYjQ1MC00MjE0LWIyNGMtY2M5NDU3Y2MxMjg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9_
+
 ************************
 Project Short Info: 
 
@@ -30,10 +32,6 @@ I learned the following things in this project
 **************************
 
 
-Project GitHub Link: https://github.com/Krishna-Kumar-001/Power-BI-360
-
-
-Live PowerBI Dashboard Link:https://app.powerbi.com/view?r=eyJrIjoiODgyYTM3MTEtYjQ1MC00MjE0LWIyNGMtY2M5NDU3Y2MxMjg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
