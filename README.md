@@ -1,6 +1,6 @@
 Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 
-_Live PowerBI Dashboard(https://app.powerbi.com/view?r=eyJrIjoiODgyYTM3MTEtYjQ1MC00MjE0LWIyNGMtY2M5NDU3Y2MxMjg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+_[Live PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODgyYTM3MTEtYjQ1MC00MjE0LWIyNGMtY2M5NDU3Y2MxMjg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 ************************
 Project Short Info: 
