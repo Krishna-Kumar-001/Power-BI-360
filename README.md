@@ -48,7 +48,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ### Home Page
 
-(https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Home.jpg)
+![Home](https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Home.jpg)
 
 
 
