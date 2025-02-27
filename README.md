@@ -9,7 +9,7 @@ AtliQ Hardwares is a consumer electronics company expanding rapidly but is not a
 
 **************************
 
-Project Description: 
+### Project Description: 
 
 In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
 
@@ -32,3 +32,21 @@ I learned the following things in this project
 **************************
 
 **************************
+### Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+Info
+Finance View
+Sales View
+Marketing View
+Supply chain View
+Executive View
+Products
+Support
+
+**************************
+
+### Info Page
+
+
+
