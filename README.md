@@ -35,18 +35,20 @@ I learned the following things in this project
 ### Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-*Info
-*Finance View
-*Sales View
-*Marketing View
-*Supply chain View
-*Executive View
-*Products
-*Support
+-Info
+-Finance View
+-Sales View
+-Marketing View
+-Supply chain View
+-Executive View
+-Products
+-Support
 
 **************************
 
-### Info Page
+### Home Page
+
+(https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Home.jpg)
 
 
 
