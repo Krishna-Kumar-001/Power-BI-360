@@ -50,5 +50,26 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Home](https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Home.jpg)
 
+### Finance View
+
+![Finance](https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Finance.jpg)
+
+### Sales View
+
+![Sales](https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Sales.jpg)
+
+### Marketing View
+
+![Marketing](https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Marketing%202.jpg)
+
+### Supply Chain View
+
+![Supply Chain](https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Supply%20Chain.jpg)
+
+### Excecutive View
+
+![Executive](https://github.com/Krishna-Kumar-001/Power-BI-360/blob/main/PBI%20360%20Executive.jpg)
+
+
 
 
